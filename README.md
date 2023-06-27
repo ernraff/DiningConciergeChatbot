@@ -1,4 +1,6 @@
 # Dining Concierge Chatbot
-Users chat with a bot created using Amazon Lex to find restaurants that meet their criteria.  Yelp API used to find restaurants in New York City for the cuisine specified by user.  Email with restaurant recommendations is then emailed to the user.  
+Implement a serverless, microservice-driven web application. Build a Dining Concierge chatbot that sends you
+restaurant suggestions given a set of preferences that you provide the chatbot with
+through conversation.
 
 Technologies used:  Amazon Lex, AWS Lambda, AWS SQS, AWS SES
