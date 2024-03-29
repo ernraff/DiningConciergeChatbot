@@ -1,7 +1,9 @@
 # Dining Concierge Chatbot
-Implement a serverless, microservice-driven web application. Build a Dining Concierge chatbot that sends you
-restaurant suggestions given a set of preferences that you provide the chatbot with
-through conversation.
+
+Course project for Cloud Computing at NYU
+
+Implemented a serverless, microservice-driven Dining Concierge chatbot that sends you
+restaurant suggestions given a set of preferences provided to the chatbot through conversation.
 
 Technologies used:  Amazon Lex, AWS Lambda, AWS SQS, AWS SES
 
